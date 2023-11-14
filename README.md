@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alice-moradiya&label=Profile%20views&color=0e75b6&style=flat" alt="alice-moradiya" /> </p>
 
-- 🌱 I’m currently working on a project **Comment analyser**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alice-moradiya?tab=repositories](https://github.com/alice-moradiya?tab=repositories)
 
